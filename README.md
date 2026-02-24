@@ -76,17 +76,17 @@ Berikut adalah beberapa widget utama yang digunakan dalam aplikasi:
 
 ### Halaman utama aplikasi
 
-<img width="462" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa451522-d466-4f53-bb4a-622c9a1e499d" />
+<img width="180" height="420" alt="image" src="https://github.com/user-attachments/assets/fa451522-d466-4f53-bb4a-622c9a1e499d" />
 
 ### Halaman Input
 
-<img width="462" height="1079" alt="image" src="https://github.com/user-attachments/assets/b58f6408-2767-446b-b970-804acb7e385a" />
+<img width="180" height="420" alt="image" src="https://github.com/user-attachments/assets/b58f6408-2767-446b-b970-804acb7e385a" />
 
 ### Halaman utama setelah input
 
-<img width="462" height="1079" alt="image" src="https://github.com/user-attachments/assets/a90929ff-44d5-4f88-a9fe-352acbfc6e54" />
+<img width="180" height="420" alt="image" src="https://github.com/user-attachments/assets/a90929ff-44d5-4f88-a9fe-352acbfc6e54" />
 
 ### Popup Preview
 
-<img width="462" height="1079" alt="image" src="https://github.com/user-attachments/assets/526d6749-df7e-4e37-a1f9-99bab9e6e58a" />
+<img width="180" height="420" alt="image" src="https://github.com/user-attachments/assets/526d6749-df7e-4e37-a1f9-99bab9e6e58a" />
 
