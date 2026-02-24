@@ -9,7 +9,7 @@ Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan men
 
 ---
 
-## 🚀 Fitur Aplikasi
+## Fitur Aplikasi
 
 1. **Tambah Data Kartu (Create)**
    - Input nama kartu
@@ -36,7 +36,7 @@ Aplikasi ini memungkinkan pengguna untuk menambahkan, melihat, mengedit, dan men
 
 ---
 
-## 🧩 Widget yang Digunakan
+## Widget yang Digunakan
 
 Berikut adalah beberapa widget utama yang digunakan dalam aplikasi:
 
@@ -63,7 +63,7 @@ Berikut adalah beberapa widget utama yang digunakan dalam aplikasi:
 
 ---
 
-## 🛠 Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 - Flutter
 - Dart
